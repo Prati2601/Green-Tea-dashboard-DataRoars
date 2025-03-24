@@ -1,4 +1,4 @@
-# Green-Tea-dashboard-DataRoars
+# Green-Tea-sales-analysis-PowerBI
 
 #📌 Project Overview
 This project develops a Power BI dashboard to visually represent and analyze Green Tea sales data. It aims to provide stakeholders with quick and easy access to key metrics like revenue, sales volume, and customer trends, enabling them to understand overall sales performance at a glance. This dashboard will serve as a foundational tool for monitoring sales and identifying potential areas for improvement.
